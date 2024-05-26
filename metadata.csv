@@ -1,0 +1,10 @@
+organisation,Ministry of Labour and Employment
+sectors,"Labour and Employment"
+updated_frequency,Yearly
+granularity,"All India"
+time_saved,6 hours
+source,"EPFO: Provisional Monthly Estimate of Payroll"
+source_link,"https://www.epfindia.gov.in/site_en/Estimate_of_Payroll.php"
+time_period,"2017-18 to 2023"
+units,"value in absolute number"
+citation,"Ministry of Labour and Employment. Employees Provident Fund: Year-, Gender- and Age-group-wise All India Number of New, Exited and Rejoined EPF Subscribers [Data set]. Dataful. https://dataful-in.opj.remotlog.com/datasets/19337/19337"
